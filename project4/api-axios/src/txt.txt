@@ -1,0 +1,9 @@
+1. npx create-react-app your-app (yarn create react-app your-app) (npm install yarn --global)
+2. props
+3. hooks p1 (useState)
+4. life-circle (vòng đời: mounth, update, unmounth)
+5. Router: react-Router-v6
+6. propsType
+7. hooks p2 (useEffect: quản lý vòng đời, useRef: lưu giá trị trc đó của component, useContext: quản lý trạng thái component)
+8. redux (quản lý trạng thái component)
+9. 1 số thư viện: taiwind, scss, formik, matarial UI,...
